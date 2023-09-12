@@ -1,4 +1,4 @@
-# berry-burst
+# the-berry-burst
 
 ## Programming Hero Assignment-03
 
@@ -12,5 +12,5 @@
 - [x] CSS
 - [x] TailwindCSS
 - [x] DaisyUI
-- [x] Google Fonts [Work-Sans]
+- [x] Google Fonts [lato]
 - [x] Icon [Font-Awesome]
