@@ -1,0 +1,16 @@
+# berry-burst
+
+## Programming Hero Assignment-03
+
+> TailwindCSS Responsive berry burst website
+
+#### Live Link: [The Berry Burst](https://mdsajalali.github.io/the-berry-burst/)
+
+## Used Technology
+
+- [x] HTML
+- [x] CSS
+- [x] TailwindCSS
+- [x] DaisyUI
+- [x] Google Fonts [Work-Sans]
+- [x] Icon [Font-Awesome]
