@@ -2,7 +2,7 @@
 
 ## Programming Hero Assignment-03
 
-> TailwindCSS Responsive berry burst website
+> Responsive TailwindCSS the berry burst website
 
 #### Live Link: [The Berry Burst](https://mdsajalali.github.io/the-berry-burst/)
 
